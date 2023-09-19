@@ -1,0 +1,2 @@
+installed modules:
+    pip install customtkinter
